@@ -62,6 +62,6 @@ SOFTWARE.
 
 ## Documentation
 
-Live Deployed Application: [View Application](https://hidden-tundra-05755.herokuapp.com/ "Live Deploy")       -->
+Live Deployed Application: [View Application](https://floating-brook-42524.herokuapp.com/ "Live Deploy")       -->
 
 <!-- ![Screenshot](doc/proof.png?raw=true "Proof of Application")       -->
