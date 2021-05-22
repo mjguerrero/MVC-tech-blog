@@ -22,8 +22,7 @@
 ## Table of Contents 
 
 * [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
+  [License](#license)
 * [Documentation](#documentation)
 
 ## Usage 
